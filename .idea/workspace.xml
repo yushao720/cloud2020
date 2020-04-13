@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a776cf41-d38c-46a2-bdfc-a1c3630e5b5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springcloud-config" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1ZsHNZtey2k4F80LaQUur8CMLUK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/guozeyu/springcloud" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reactor" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\project\cloud2020\seata-account-service2003\src\main\java\com\guozeyu\springcloud" />
+      <recent name="E:\IDEA\project\cloud2020\seata-account-service2003\src\main\resources" />
+      <recent name="E:\IDEA\project\cloud2020\seata-storage-service2002\src\main\java\com\guozeyu\springcloud" />
+      <recent name="E:\IDEA\project\cloud2020\seata-storage-service2002\src\main\resources" />
+      <recent name="E:\IDEA\project\cloud2020\seata-order-service2001\src\main\java\com\guozeyu\springcloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeataAccountMainApp2003">
+    <configuration name="MainApp8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guozeyu.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.springcloud.alibaba.MainApp8401" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-provider-payment9004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guozeyu.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.springcloud.alibaba.PaymentMain9004" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataAccountMainApp2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guozeyu.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.springcloud.alibaba.SeataAccountMainApp2003" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMainApp2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guozeyu.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.springcloud.alibaba.SeataOrderMainApp2001" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageServiceApplication2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guozeyu.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.springcloud.alibaba.SeataStorageServiceApplication2002" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MainApp8401" />
+      <item itemvalue="Spring Boot.PaymentMain9004" />
+      <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
+      <item itemvalue="Spring Boot.SeataStorageServiceApplication2002" />
+      <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
+        <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
+        <item itemvalue="Spring Boot.SeataStorageServiceApplication2002" />
+        <item itemvalue="Spring Boot.MainApp8401" />
+        <item itemvalue="Spring Boot.PaymentMain9004" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18235931" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+          <option name="groupByServiceGroups" value="false" />
+          <option name="groupByContributor" value="true" />
+        </serviceView>
+        <serviceView>
+          <option name="contentProportion" value="0.26289752" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+          <option name="groupByServiceGroups" value="false" />
+          <option name="groupByContributor" value="true" />
+          <option name="isSelected" value="true" />
+          <option name="viewType" value="contributor" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="contributor" value="com.intellij.execution.dashboard.RunDashboardServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a776cf41-d38c-46a2-bdfc-a1c3630e5b5a" name="Default Changelist" comment="" />
+      <created>1585620841991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585620841991</updated>
+      <workItem from="1585620847375" duration="5765000" />
+      <workItem from="1585632499298" duration="3767000" />
+      <workItem from="1585636306398" duration="531000" />
+      <workItem from="1585636866128" duration="101000" />
+      <workItem from="1585636984159" duration="543000" />
+      <workItem from="1585647308049" duration="637000" />
+      <workItem from="1585649807537" duration="333000" />
+      <workItem from="1585650161063" duration="649000" />
+      <workItem from="1585650828533" duration="3024000" />
+      <workItem from="1585653902361" duration="39000" />
+      <workItem from="1585659459447" duration="1190000" />
+      <workItem from="1585703866348" duration="3460000" />
+      <workItem from="1585713490861" duration="809000" />
+      <workItem from="1585717134479" duration="9447000" />
+      <workItem from="1585802517688" duration="16961000" />
+      <workItem from="1585887956868" duration="14451000" />
+      <workItem from="1585979397850" duration="1588000" />
+      <workItem from="1586002637964" duration="6311000" />
+      <workItem from="1586055997696" duration="5514000" />
+      <workItem from="1586072322156" duration="1477000" />
+      <workItem from="1586143096190" duration="49000" />
+      <workItem from="1586143372857" duration="602000" />
+      <workItem from="1586324924854" duration="7375000" />
+      <workItem from="1586398882585" duration="1919000" />
+      <workItem from="1586407567268" duration="5093000" />
+      <workItem from="1586495273581" duration="7685000" />
+      <workItem from="1586586238531" duration="24000" />
+      <workItem from="1586587122849" duration="593000" />
+      <workItem from="1586592495641" duration="5370000" />
+      <workItem from="1586607882059" duration="11000" />
+      <workItem from="1586612127053" duration="2061000" />
+      <workItem from="1586659841046" duration="14591000" />
+      <workItem from="1586750616328" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="35" key="#ConfigCenterMain3344" timestamp="1586331926438">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#ConfigCenterMain3344/0.0.1920.1080@0.0.1920.1080" timestamp="1586331926438" />
+    <state x="709" y="36" key="#ConfigClientMain3355" timestamp="1586332705751">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="36" key="#ConfigClientMain3355/0.0.1920.1080@0.0.1920.1080" timestamp="1586332705751" />
+    <state x="709" y="36" key="#ConfigClientMain3366" timestamp="1586400988056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="36" key="#ConfigClientMain3366/0.0.1920.1080@0.0.1920.1080" timestamp="1586400988056" />
+    <state x="483" y="35" key="#EurekaMain7001" timestamp="1586422158215">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#EurekaMain7001/0.0.1920.1080@0.0.1920.1080" timestamp="1586422158215" />
+    <state x="483" y="35" key="#EurekaMain7002" timestamp="1585889749109">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#EurekaMain7002/0.0.1920.1080@0.0.1920.1080" timestamp="1585889749109" />
+    <state x="29" y="37" key="#GatewayMain9527" timestamp="1586004169367">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="29" y="37" key="#GatewayMain9527/0.0.1920.1080@0.0.1920.1080" timestamp="1586004169367" />
+    <state x="483" y="35" key="#HystrixDashboardMain9001" timestamp="1585979828814">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#HystrixDashboardMain9001/0.0.1920.1080@0.0.1920.1080" timestamp="1585979828814" />
+    <state x="777" y="199" key="#Inspections" timestamp="1586330998633">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="777" y="199" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1586330998633" />
+    <state x="699" y="25" key="#MainApp8401" timestamp="1586667327328">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="699" y="25" key="#MainApp8401/0.0.1920.1080@0.0.1920.1080" timestamp="1586667327328" />
+    <state x="714" y="26" key="#NacosConfigClientMain3377" timestamp="1586499062991">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="714" y="26" key="#NacosConfigClientMain3377/0.0.1920.1080@0.0.1920.1080" timestamp="1586499062991" />
+    <state x="483" y="35" key="#OrderConsulMain80" timestamp="1585815456633">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#OrderConsulMain80/0.0.1920.1080@0.0.1920.1080" timestamp="1585815456633" />
+    <state x="483" y="35" key="#OrderFeignMain80" timestamp="1585979822875">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#OrderFeignMain80/0.0.1920.1080@0.0.1920.1080" timestamp="1585979822875" />
+    <state x="483" y="35" key="#OrderHystrixMain80" timestamp="1585904933214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#OrderHystrixMain80/0.0.1920.1080@0.0.1920.1080" timestamp="1585904933214" />
+    <state x="483" y="35" key="#OrderMain80" timestamp="1586423971114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#OrderMain80/0.0.1920.1080@0.0.1920.1080" timestamp="1586423971114" />
+    <state x="714" y="26" key="#OrderNacosMain83" timestamp="1586663088241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="714" y="26" key="#OrderNacosMain83/0.0.1920.1080@0.0.1920.1080" timestamp="1586663088241" />
+    <state x="483" y="35" key="#OrderNacosMain84" timestamp="1586667333943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#OrderNacosMain84/0.0.1920.1080@0.0.1920.1080" timestamp="1586667333943" />
+    <state x="483" y="35" key="#OrderZkMain80" timestamp="1585809222581">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#OrderZkMain80/0.0.1920.1080@0.0.1920.1080" timestamp="1585809222581" />
+    <state x="483" y="35" key="#PaymentHystrixMain8001" timestamp="1585904910728">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#PaymentHystrixMain8001/0.0.1920.1080@0.0.1920.1080" timestamp="1585904910728" />
+    <state x="483" y="35" key="#PaymentMain8001" timestamp="1586401013453">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#PaymentMain8001/0.0.1920.1080@0.0.1920.1080" timestamp="1586401013453" />
+    <state x="483" y="35" key="#PaymentMain8002" timestamp="1586006414364">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#PaymentMain8002/0.0.1920.1080@0.0.1920.1080" timestamp="1586006414364" />
+    <state x="483" y="35" key="#PaymentMain8004" timestamp="1585816728333">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#PaymentMain8004/0.0.1920.1080@0.0.1920.1080" timestamp="1585816728333" />
+    <state x="483" y="35" key="#PaymentMain8006" timestamp="1585815450163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#PaymentMain8006/0.0.1920.1080@0.0.1920.1080" timestamp="1585815450163" />
+    <state x="714" y="26" key="#PaymentMain9001" timestamp="1586594165094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="714" y="26" key="#PaymentMain9001/0.0.1920.1080@0.0.1920.1080" timestamp="1586594165094" />
+    <state x="714" y="26" key="#PaymentMain9001_(1)" timestamp="1586422783050">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="714" y="26" key="#PaymentMain9001_(1)/0.0.1920.1080@0.0.1920.1080" timestamp="1586422783050" />
+    <state x="714" y="26" key="#PaymentMain9002" timestamp="1586662717654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="714" y="26" key="#PaymentMain9002/0.0.1920.1080@0.0.1920.1080" timestamp="1586662717654" />
+    <state x="695" y="28" key="#PaymentMain9003" timestamp="1586675643714">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="28" key="#PaymentMain9003/0.0.1920.1080@0.0.1920.1080" timestamp="1586675643714" />
+    <state x="695" y="28" key="#PaymentMain9004" timestamp="1586677177831">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="28" key="#PaymentMain9004/0.0.1920.1080@0.0.1920.1080" timestamp="1586677177831" />
+    <state x="695" y="28" key="#PaymentMain9011_CopyOf_9001" timestamp="1586662711695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="28" key="#PaymentMain9011_CopyOf_9001/0.0.1920.1080@0.0.1920.1080" timestamp="1586662711695" />
+    <state x="552" y="198" key="#Project_Structure" timestamp="1586675893735">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1586675893735" />
+    <state x="700" y="34" key="#SeataAccountMainApp2003" timestamp="1586677197032">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="700" y="34" key="#SeataAccountMainApp2003/0.0.1920.1080@0.0.1920.1080" timestamp="1586677197032" />
+    <state x="711" y="41" key="#SeataOrderMainApp2001" timestamp="1586676443854">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="711" y="41" key="#SeataOrderMainApp2001/0.0.1920.1080@0.0.1920.1080" timestamp="1586676443854" />
+    <state x="700" y="34" key="#SeataStorageServiceApplication2002" timestamp="1586677181828">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="700" y="34" key="#SeataStorageServiceApplication2002/0.0.1920.1080@0.0.1920.1080" timestamp="1586677181828" />
+    <state x="709" y="36" key="#StreamMQMain8801" timestamp="1586333399898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="36" key="#StreamMQMain8801/0.0.1920.1080@0.0.1920.1080" timestamp="1586333399898" />
+    <state x="709" y="36" key="#StreamMQMain8802" timestamp="1586332715364">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="36" key="#StreamMQMain8802/0.0.1920.1080@0.0.1920.1080" timestamp="1586332715364" />
+    <state x="709" y="36" key="#StreamMQMain8803" timestamp="1586333410898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="36" key="#StreamMQMain8803/0.0.1920.1080@0.0.1920.1080" timestamp="1586333410898" />
+    <state x="-176" y="199" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585652790913">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-176" y="199" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585652790913" />
+    <state x="739" y="245" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585816760177">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="245" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585816760177" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1586331247467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586331247467" />
+    <state x="557" y="465" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586064904809">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="557" y="465" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586064904809" />
+    <state x="604" y="398" width="712" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586674134263">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="604" y="398" width="712" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1586674134263" />
+    <state x="1210" y="287" key="FileChooserDialogImpl" timestamp="1585621302680">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1210" y="287" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585621302680" />
+    <state width="1042" height="437" key="GridCell.Tab.0.bottom" timestamp="1586679260545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1042" height="437" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586679260545" />
+    <state width="1042" height="437" key="GridCell.Tab.0.center" timestamp="1586679260545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1042" height="437" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586679260545" />
+    <state width="1042" height="437" key="GridCell.Tab.0.left" timestamp="1586679260529">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1042" height="437" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586679260529" />
+    <state width="1042" height="437" key="GridCell.Tab.0.right" timestamp="1586679260545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1042" height="437" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586679260545" />
+    <state width="1042" height="437" key="GridCell.Tab.1.bottom" timestamp="1586679260545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1042" height="437" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586679260545" />
+    <state width="1042" height="437" key="GridCell.Tab.1.center" timestamp="1586679260545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1042" height="437" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586679260545" />
+    <state width="1042" height="437" key="GridCell.Tab.1.left" timestamp="1586679260545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1042" height="437" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586679260545" />
+    <state width="1042" height="437" key="GridCell.Tab.1.right" timestamp="1586679260545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1042" height="437" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586679260545" />
+    <state width="1428" height="509" key="GridCell.Tab.2.bottom" timestamp="1585718972274">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1428" height="509" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585718972274" />
+    <state width="1428" height="509" key="GridCell.Tab.2.center" timestamp="1585718972274">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1428" height="509" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585718972274" />
+    <state width="1428" height="509" key="GridCell.Tab.2.left" timestamp="1585718972274">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1428" height="509" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585718972274" />
+    <state width="1428" height="509" key="GridCell.Tab.2.right" timestamp="1585718972274">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1428" height="509" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585718972274" />
+    <state x="531" y="202" key="Registry" timestamp="1585650803885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="531" y="202" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1585650803885" />
+    <state x="567" y="164" key="SettingsEditor" timestamp="1585718619135">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="567" y="164" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585718619135" />
+    <state x="604" y="212" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585634392451">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="604" y="212" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585634392451" />
+    <state x="636" y="273" width="647" height="534" key="find.popup" timestamp="1585724819560">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="273" width="647" height="534" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585724819560" />
+    <state x="334" y="234" key="new project wizard" timestamp="1586676483088">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="234" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586676483088" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1586006307509">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586006307509" />
+  </component>
+</project>
